@@ -1,2 +1,2 @@
-# Presentación Sobre Experiencia Dual en Empresa
+# DXC.TECHNOLOGY - ADRIÁN SÁNCHEZ RAMÍREZ
 
