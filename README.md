@@ -29,3 +29,5 @@ Herramientas y Tecnologias
 Valoración personal y Observaciones
 
 <img src="imagenes/7.PNG">
+
+<img src="imagenes/8.PNG">
